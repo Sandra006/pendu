@@ -1,5 +1,11 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
 .App {
   text-align: center;
+}
+
+span {
+  font-size: 25px;
 }
 
 .App-logo {
